@@ -81,16 +81,4 @@ Focus:          Currently Flutter and Android
 
 </p>
 
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fuck-it-man&theme=tokyo-night&bg_color=0d1117&color=9A4DFF&line=9A4DFF&point=FFFFFF&hide_border=true"/>
-
-</p>
-
----
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=9A4DFF&height=120&section=footer"/> </p>
